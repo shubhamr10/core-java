@@ -1,7 +1,7 @@
 /* FOR LOOP */
 /* Write a program to display from 1 to 10 using for loop */
 
-import java.lang.*;
+// import java.lang.*;
 
 class Program6Demo{
     public static void main(String args[]){

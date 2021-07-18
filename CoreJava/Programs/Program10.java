@@ -3,7 +3,7 @@
 * Write a program to display the use of Switch statement
 * */
 
-import java.lang.*;
+// import java.lang.*;
 
 class Program10Demo{
     public static void main(String args[]){

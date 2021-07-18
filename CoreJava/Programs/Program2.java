@@ -11,7 +11,6 @@
 * 8. \' ==> Displays '
 * */
 
-import java.lang.*;
 
 class Program2Formatting{
     public static void main( String args[] ){

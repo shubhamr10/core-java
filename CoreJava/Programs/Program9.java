@@ -4,7 +4,7 @@
 * and retrevie the element from an array
 *  */
 
-import java.lang.*;
+// import java.lang.*;
 
 class Program9Demo{
     public static void main(String args[]){

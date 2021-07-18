@@ -1,6 +1,5 @@
 /* Write a Java Program to find the Sum of of numbers */
 
-import java.lang.*;
 
 class Program1Sum{
     public static void main( String args[]){

@@ -2,7 +2,7 @@
 * --> Nested for loops
 * Write a program to display traingular stars
 * */
-import java.lang.*;
+// import java.lang.*;
 
 class Program8Demo{
     public static void main(String args[]){

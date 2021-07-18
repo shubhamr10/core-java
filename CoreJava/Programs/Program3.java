@@ -1,7 +1,7 @@
 /* If else statement */
 /* Write a program to test if a number is positive or negative */
 
-import java.lang.*;
+// import java.lang.*;
 
 class Program3Demo{
     public static void main(String args[]){

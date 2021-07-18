@@ -4,7 +4,7 @@
 * => the numbers in descending order.
 * */
 
-import java.lang.*;
+// import java.lang.*;
 
 class Program12Demo{
     public static void main(String args[]){

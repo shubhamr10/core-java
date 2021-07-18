@@ -3,7 +3,7 @@
 * ==> Block naming
 *
 * */
-import java.lang.*;
+// import java.lang.*;
 
 class Program11Demo{
     public static void main(String args[]){

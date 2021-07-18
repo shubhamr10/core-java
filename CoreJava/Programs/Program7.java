@@ -3,7 +3,7 @@
 * Display numbers between 1 to 10 using infinite loop
 *  */
 
-import java.lang.*;
+// import java.lang.*;
 
 class Program7Demo{
     public static void main(String args[]){

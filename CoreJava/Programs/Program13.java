@@ -3,7 +3,7 @@
 * Demonstrate use of labeled loop and continue.
 * */
 
-import java.lang.*;
+// import java.lang.*;
 
 class Program13Demo{
     public static void main(String args[]){
